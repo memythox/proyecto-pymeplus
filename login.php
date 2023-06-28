@@ -14,7 +14,7 @@
         </ul>
       </nav>
     </header>
-
+  
     <section>
       <h2>
         <center>INICIAR SESIÓN</center>
@@ -33,10 +33,13 @@
       </form>
     </section>
 
-    <footer>
-      <!-- Pie de página -->
-      <p>Todos los derechos reservados &copy; 2023</p>
-    </footer>
+
   </div>
+  
 </body>
+
+<footer>
+  <!-- Pie de página -->
+  <p>Todos los derechos reservados &copy; 2023</p>
+</footer>
 </html>
