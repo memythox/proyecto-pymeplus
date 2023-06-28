@@ -13,7 +13,7 @@ margin-bottom: 10px;
   <div class="container">
     <header>
         <h3>
-            <a href="formulario.html" class="">¿Quienes Somos?</a>
+            <a href="formulario.html" class="">¿Pyme nueva?</a>
         </h3>
         <div class="search-bar">
           <input type="text" placeholder="Buscar productos...">
@@ -60,7 +60,7 @@ margin-bottom: 10px;
           <div class="product-content">
             <h3>KORB</h3>
             <p>¡Compra los diferentes productos en KORB! más de 300 productos en stock, búsca el tuyo.</p>
-            <a href="#" class="button">Ver más</a>
+            <a href="https://korbsteel.com/" class="button">Ver más</a>
           </div>
         </div>
 
@@ -71,7 +71,7 @@ margin-bottom: 10px;
           <div class="product-content">
             <h3>CASA ROYAL</h3>
             <p>Casa Royal te ofrece una gran variedad de marcas y productos para soluciones en Electrónica, Seguridad, Audio y mucho más.</p>
-            <a href="#" class="button">Ver más</a>
+            <a href="https://casaroyal.cl/" class="button">Ver más</a>
           </div>
         </div>
 
@@ -82,7 +82,7 @@ margin-bottom: 10px;
           <div class="product-content">
             <h3>EL MERCADITO</h3>
             <p>Compra con nosotros, compra YA!!! Recuerda que nuestros precios son más bajos que en otros lugares 😉</p>
-            <a href="#" class="button">Ver más</a>
+            <a href="https://elmercaditodeli.cl/" class="button">Ver más</a>
           </div>
         </div>
       </section>
