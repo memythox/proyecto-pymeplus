@@ -1,5 +1,4 @@
-<?php
-include("connection.php");
+<?php include("connection.php");
 $con = connection();
 
 $sql = "SELECT * FROM usuarios";
@@ -40,7 +39,7 @@ $query = mysqli_query($con, $sql);
         </div>
         <div class="form-group">
           <label for="rut">RUT</label>
-          <input type="text" id="rut" name="rut" placeholder="Ingrese su RUT">
+          <input type="text" id="rut" name="rut" placeholder="Ingrese RUT (sin puntos y con guión)">
         </div>
         <div class="form-group">
           <label for="celular">Celular</label>
